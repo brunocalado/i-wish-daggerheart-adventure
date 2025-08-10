@@ -1,0 +1,79 @@
+{
+  "id": "i-wish-daggerheart-adventure",
+  "title": "I Wish (Daggerheart Adventure)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Mestre Digital",
+      "url": "https://www.youtube.com/@mestredigital",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "i-wish",
+      "label": "Journals (I Wish)",
+      "path": "packs/i-wish",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "banner": "modules/i-wish-daggerheart-adventure/docs/banner.webp"
+    },
+    {
+      "label": "Scenes (I Wish)",
+      "type": "Scene",
+      "name": "i-wish-scenes",
+      "path": "packs/i-wish-scenes",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "banner": "modules/i-wish-daggerheart-adventure/docs/banner.webp"
+    },
+    {
+      "label": "Actors (I Wish)",
+      "type": "Actor",
+      "name": "actors-i-wish",
+      "path": "packs/actors-i-wish",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "banner": "modules/i-wish-daggerheart-adventure/docs/banner.webp"    
+    }    
+  ],
+
+  "packFolders": [
+    {
+      "name": "I Wish (Adventure)",
+      "sorting": "a",
+      "color": "#ad0000",
+      "packs": [
+        "i-wish",
+        "i-wish-scenes",
+        "actors-i-wish"
+      ],
+      "folders": []
+    }
+  ],
+  
+  "description": "A wealthy merchant has been cursed and is doomed to die within a few weeks. The only hope of breaking the curse lies in a legendary artifact said to rest deep within a mountain. With time running out, the merchant is organizing one final expedition to retrieve the item—or die trying. He has summoned a group of remarkable individuals to undertake this perilous mission.",
+
+  "url": "https://github.com/brunocalado/i-wish-daggerheart-adventure",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/i-wish-daggerheart-adventure/main/module.json",  
+  "download": "https://codeload.github.com/brunocalado/i-wish-daggerheart-adventure/zip/main" 
+  
+}
