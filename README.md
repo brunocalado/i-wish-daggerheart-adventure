@@ -3,7 +3,7 @@ A wealthy merchant has been cursed and is doomed to die within a few weeks. The 
 
 This module includes maps and npcs with art.
 <p align="center">
-  <img width="600" src="docs/preview.webp">
+  <img width="800" src="docs/preview.webp">
 </p>
 
 ## About
@@ -30,6 +30,8 @@ You can read changes at [CHANGELOG](CHANGELOG.md)
 This work is published under the terms of the Darrington Press Community Gaming (DPCGL) License, available at http://www.darringtonpress.com/license
 
 The maps are from Dungeon Alchemist and are under their license: https://www.dungeonalchemist.com/terms-of-use
+
+The token frame used belong to https://foundryvtt.com/packages/token-frames
 
 The NPC images are done using AI. So, they are under https://creativecommons.org/publicdomain/zero/1.0/
 

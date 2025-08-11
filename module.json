@@ -69,8 +69,25 @@
       "folders": []
     }
   ],
-  
+ 
+  "relationships": {
+    "systems": [
+      {
+        "id": "daggerheart",
+        "type": "system"
+      }
+    ],
+    "requires": [
+    ]    
+  },  
+ 
   "description": "A wealthy merchant has been cursed and is doomed to die within a few weeks. The only hope of breaking the curse lies in a legendary artifact said to rest deep within a mountain. With time running out, the merchant is organizing one final expedition to retrieve the item—or die trying. He has summoned a group of remarkable individuals to undertake this perilous mission.",
+
+	"media": [{
+		"type": "setup",
+		"url": "modules/i-wish-daggerheart-adventure/docs/adventure_logo.webp",
+		"thumbnail": "modules/i-wish-daggerheart-adventure/docs/adventure_logo.webp"
+	}],  
 
   "url": "https://github.com/brunocalado/i-wish-daggerheart-adventure",
   "manifest": "https://raw.githubusercontent.com/brunocalado/i-wish-daggerheart-adventure/main/module.json",  
