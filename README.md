@@ -29,6 +29,7 @@ You can read changes at [CHANGELOG](CHANGELOG.md)
 <img width="300" src="logo/dh.svg">
 This work is published under the terms of the Darrington Press Community Gaming (DPCGL) License, available at http://www.darringtonpress.com/license
 
+
 The maps are from Dungeon Alchemist and are under their license: https://www.dungeonalchemist.com/terms-of-use
 
 The token frame used belong to https://foundryvtt.com/packages/token-frames
