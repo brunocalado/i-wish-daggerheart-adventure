@@ -1,15 +1,8 @@
-2025/08/13-14:34:52.745 6ac8 Recovering log #66
-2025/08/13-14:34:52.748 6ac8 Delete type=0 #66
-2025/08/13-14:34:52.748 6ac8 Delete type=3 #65
-2025/08/13-14:35:41.763 bfc Level-0 table #70: started
-2025/08/13-14:35:41.765 bfc Level-0 table #70: 61331 bytes OK
-2025/08/13-14:35:41.767 bfc Delete type=0 #68
-2025/08/13-14:35:41.777 bfc Manual compaction at level-0 from '!actors!0Pm8g0l5RUNjBz1f' @ 72057594037927935 : 1 .. '!folders!xwaa1ybFO2EmHXs5' @ 0 : 0; will stop at (end)
-2025/08/13-14:35:41.777 bfc Manual compaction at level-1 from '!actors!0Pm8g0l5RUNjBz1f' @ 72057594037927935 : 1 .. '!folders!xwaa1ybFO2EmHXs5' @ 0 : 0; will stop at '!folders!xwaa1ybFO2EmHXs5' @ 907 : 1
-2025/08/13-14:35:41.777 bfc Compacting 1@1 + 1@2 files
-2025/08/13-14:35:41.779 bfc Generated table #71@1: 86 keys, 61781 bytes
-2025/08/13-14:35:41.779 bfc Compacted 1@1 + 1@2 files => 61781 bytes
-2025/08/13-14:35:41.780 bfc compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/08/13-14:35:41.780 bfc Delete type=2 #60
-2025/08/13-14:35:41.780 bfc Delete type=2 #70
-2025/08/13-14:35:41.783 bfc Manual compaction at level-1 from '!folders!xwaa1ybFO2EmHXs5' @ 907 : 1 .. '!folders!xwaa1ybFO2EmHXs5' @ 0 : 0; will stop at (end)
+2025/08/28-17:37:41.982 ef4 Recovering log #256
+2025/08/28-17:37:41.986 ef4 Delete type=0 #256
+2025/08/28-17:37:41.987 ef4 Delete type=3 #254
+2025/08/28-17:42:27.764 3d3c Level-0 table #261: started
+2025/08/28-17:42:27.764 3d3c Level-0 table #261: 0 bytes OK
+2025/08/28-17:42:27.765 3d3c Delete type=0 #259
+2025/08/28-17:42:27.768 3d3c Manual compaction at level-0 from '!actors!0Pm8g0l5RUNjBz1f' @ 72057594037927935 : 1 .. '!folders!xwaa1ybFO2EmHXs5' @ 0 : 0; will stop at (end)
+2025/08/28-17:42:27.768 3d3c Manual compaction at level-1 from '!actors!0Pm8g0l5RUNjBz1f' @ 72057594037927935 : 1 .. '!folders!xwaa1ybFO2EmHXs5' @ 0 : 0; will stop at (end)
