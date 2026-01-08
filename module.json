@@ -1,7 +1,7 @@
 {
   "id": "i-wish-daggerheart-adventure",
   "title": "I Wish (Daggerheart Adventure)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -13,9 +13,7 @@
       "flags": {}
     }
   ],
-  "flags": {
-    "canUpload": true
-  },
+
   "packs": [
     {
       "name": "i-wish",
